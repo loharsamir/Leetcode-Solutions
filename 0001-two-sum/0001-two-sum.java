@@ -1,26 +1,31 @@
 class Solution {
-    public List<String> topKFrequent(String[] words, int k) {
-        HashMap<String,Integer>map=new HashMap<>();
-        List<String>ans=new ArrayList<>();
-        List<String>[] arr=new ArrayList[words.length+1];
-        for(String str:words){
-            map.put(str,map.getOrDefault(str,0)+1);
-        }
-        for(String str:map.keySet()){
-            if(arr[map.get(str)]==null)arr[map.get(str)]=new ArrayList<>();
-            arr[map.get(str)].add(str);
-        }
-      
-        for(int i=arr.length-1;i>=0;i--){
-            if(arr[i]!=null){
-                Collections.sort(arr[i]);
-                for(String str:arr[i]){
-                    ans.add(str);
-                    if(ans.size()==k)return ans;
+    public int[] twoSum(int[] nums, int target) {
+       
+        int arr[]=new int[2];
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[i]+nums[j] == target){
+                   arr[0]=i;
+                   arr[1]=j;
+                   return arr;
                 }
             }
         }
-        return ans;
-        
+        return arr;
+       
+
+        // int[] ans =new int[2];
+        // Map<Integer,Integer> map=new HashMap<>();
+        // for(int i=0;i<nums.length;i++){
+        //     int need= target-nums[i];
+        //     if(map.containsKey(need)){
+        //         ans[0]=i;
+        //         ans[1]=map.get(need);
+        //         break;
+        //     }
+        //     map.put(nums[i],i);
+
+        // }
+        // return ans;
     }
-}
+} 
