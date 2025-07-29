@@ -81,6 +81,7 @@
 | [1656-count-good-triplets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -490,6 +491,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -535,6 +537,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2998-count-symmetric-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
