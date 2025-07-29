@@ -240,6 +240,7 @@
 | [0415-add-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -625,6 +626,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
