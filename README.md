@@ -519,6 +519,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
@@ -672,6 +673,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -737,6 +739,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
