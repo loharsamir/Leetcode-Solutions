@@ -328,6 +328,7 @@
 | [0049-group-anagrams](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -626,6 +627,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -689,6 +691,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -736,6 +739,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## String Matching
 |  |
@@ -764,6 +768,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
