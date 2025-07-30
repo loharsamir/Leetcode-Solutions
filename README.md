@@ -529,6 +529,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -663,6 +664,7 @@
 | [0078-subsets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0800-letter-case-permutation) |
