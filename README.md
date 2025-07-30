@@ -676,6 +676,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -745,6 +746,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## String Matching
 |  |
