@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -401,6 +402,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -505,6 +507,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -625,6 +628,7 @@
 | [0015-3sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -783,5 +787,9 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 Organized using <a href="https://github.com/Rai-shwith/LEET2GIT" target="_blank">LEET2GIT</a> to sync and structure the LeetCode solutions.
