@@ -27,6 +27,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -434,6 +435,7 @@
 | [0011-container-with-most-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0561-array-partition) |
