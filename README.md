@@ -100,6 +100,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2227-sum-of-subarray-ranges](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2249-count-the-hidden-sequences](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -413,6 +414,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2227-sum-of-subarray-ranges](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Database
 |  |
 | ------- |
@@ -802,5 +804,6 @@
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
 Organized using <a href="https://github.com/Rai-shwith/LEET2GIT" target="_blank">LEET2GIT</a> to sync and structure the LeetCode solutions.
