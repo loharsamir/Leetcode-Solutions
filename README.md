@@ -47,6 +47,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -410,6 +411,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Database
 |  |
@@ -799,5 +801,6 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
 Organized using <a href="https://github.com/Rai-shwith/LEET2GIT" target="_blank">LEET2GIT</a> to sync and structure the LeetCode solutions.
