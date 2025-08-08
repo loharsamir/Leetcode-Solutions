@@ -421,6 +421,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
+| [1908-recyclable-and-low-fat-products](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
 | ------- |
