@@ -246,6 +246,7 @@
 | [0389-find-the-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -414,6 +415,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -457,6 +459,7 @@
 | [0055-jump-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -818,6 +821,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
