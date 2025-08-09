@@ -22,8 +22,7 @@ class Solution {
             
         }
         
-        //if(st.size()<=num.length() && k>0)return num.substring(0,num.length()-k);
-        //if(st.size()<num.length() && k>0)return "0";
+        
         while(st.size()>0){
             sb.append(st.pop());
         }
