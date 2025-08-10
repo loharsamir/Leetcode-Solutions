@@ -27,6 +27,7 @@
 | [0079-word-search](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0135-candy) |
@@ -412,6 +413,7 @@
 | [0020-valid-parentheses](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -538,6 +540,7 @@
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -602,6 +605,7 @@
 | [0059-spiral-matrix-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -823,6 +827,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
