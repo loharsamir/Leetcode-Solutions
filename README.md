@@ -84,6 +84,7 @@
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1651-shuffle-string) |
@@ -460,6 +461,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
