@@ -1,11 +1,7 @@
-SELECT 
-    ROUND(
-        COUNT(*) / (SELECT COUNT(DISTINCT player_id) FROM Activity),
-        2
-    ) AS fraction
-FROM Activity
-WHERE (player_id, event_date) IN (
-    SELECT player_id, DATE_ADD(MIN(event_date), INTERVAL 1 DAY)
-    FROM Activity
-    GROUP BY player_id
+select round(count(*)/(select count(distinct player_id) from Activity),2) as fraction
+from Activity
+where (player_id,event_date) in (
+    select player_id, date_add(min(event_date),interval 1 day)
+    from Activity
+    group by player_id
 );
