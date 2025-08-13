@@ -2,12 +2,12 @@
 
 <pre>
 F(0) = 0, F(1) = 1
-F(n) = F(n - 1) + F(n - 2), for n > 1.
+F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 </pre>
 
 <p>Given <code>n</code>, calculate <code>F(n)</code>.</p>
 
-<p> </p>
+<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -32,9 +32,9 @@ F(n) = F(n - 1) + F(n - 2), for n > 1.
 <strong>Explanation:</strong> F(4) = F(3) + F(2) = 2 + 1 = 3.
 </pre>
 
-<p> </p>
+<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 <= n <= 30</code></li>
+	<li><code>0 &lt;= n &lt;= 30</code></li>
 </ul>
