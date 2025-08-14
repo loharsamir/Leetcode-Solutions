@@ -79,6 +79,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -467,6 +468,7 @@
 | [0907-koko-eating-bananas](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
