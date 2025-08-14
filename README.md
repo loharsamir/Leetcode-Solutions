@@ -72,6 +72,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
@@ -465,6 +466,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
