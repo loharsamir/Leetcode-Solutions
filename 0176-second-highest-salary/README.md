@@ -11,13 +11,13 @@ id is the primary key (column with unique values) for this table.
 Each row of this table contains information about the salary of an employee.
 </pre>
 
-<p> </p>
+<p>&nbsp;</p>
 
-<p>Write a solution to find the second highest <strong>distinct</strong> salary from the <code>Employee</code> table. If there is no second highest salary, return <code>null (return None in Pandas)</code>.</p>
+<p>Write a solution to find&nbsp;the second highest <strong>distinct</strong> salary from the <code>Employee</code> table. If there is no second highest salary,&nbsp;return&nbsp;<code>null (return&nbsp;None in Pandas)</code>.</p>
 
 <p>The result format is in the following example.</p>
 
-<p> </p>
+<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
