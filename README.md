@@ -44,6 +44,7 @@
 | [0347-top-k-frequent-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -471,6 +472,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -494,6 +496,7 @@
 | [0135-candy](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -544,6 +547,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -574,6 +578,7 @@
 | [0131-palindrome-partitioning](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
