@@ -455,6 +455,7 @@
 | [1317-monthly-transactions-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1664-find-users-with-valid-e-mails) |
