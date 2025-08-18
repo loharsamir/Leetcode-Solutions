@@ -92,6 +92,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -483,6 +484,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1646-kth-missing-positive-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2280-count-good-triplets-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
