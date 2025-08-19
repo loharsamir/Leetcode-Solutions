@@ -23,6 +23,7 @@
 | [0059-spiral-matrix-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -471,6 +472,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -643,6 +645,7 @@
 | [0054-spiral-matrix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Simulation
