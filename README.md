@@ -622,6 +622,7 @@
 | [2619-categorize-box-according-to-criteria](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2998-count-symmetric-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
