@@ -245,6 +245,7 @@
 | [0038-count-and-say](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -601,6 +602,7 @@
 | [0013-roman-to-integer](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -654,6 +656,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -744,6 +747,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
