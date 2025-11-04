@@ -2,7 +2,7 @@
 
 <p>You may return the answer in <strong>any order</strong>.</p>
 
-<p> </p>
+<p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
@@ -20,10 +20,10 @@ Note that combinations are unordered, i.e., [1,2] and [2,1] are considered to be
 <strong>Explanation:</strong> There is 1 choose 1 = 1 total combination.
 </pre>
 
-<p> </p>
+<p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 <= n <= 20</code></li>
-	<li><code>1 <= k <= n</code></li>
+	<li><code>1 &lt;= n &lt;= 20</code></li>
+	<li><code>1 &lt;= k &lt;= n</code></li>
 </ul>
