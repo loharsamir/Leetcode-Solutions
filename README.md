@@ -144,6 +144,7 @@
 | [3429-special-array-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -230,6 +231,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -381,6 +383,7 @@
 | [0347-top-k-frequent-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -551,6 +554,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
