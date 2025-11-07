@@ -122,6 +122,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2339-k-divisible-elements-subarrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2339-k-divisible-elements-subarrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2476-check-distances-between-same-letters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2476-check-distances-between-same-letters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -372,6 +373,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -497,6 +499,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2280-count-good-triplets-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -746,6 +749,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
