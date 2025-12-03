@@ -83,6 +83,7 @@
 | [1168-duplicate-zeros](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -372,6 +373,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
@@ -522,6 +524,7 @@
 | [0680-valid-palindrome-ii](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -606,6 +609,7 @@
 | [0647-palindromic-substrings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
