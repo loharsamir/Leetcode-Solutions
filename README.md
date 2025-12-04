@@ -323,6 +323,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -445,6 +446,7 @@
 | [0739-daily-temperatures](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2128-reverse-prefix-of-word](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Database
 |  |
@@ -681,6 +683,7 @@
 | [0735-asteroid-collision](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2211-count-collisions-on-a-road](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
