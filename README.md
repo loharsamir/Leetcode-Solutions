@@ -146,6 +146,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -592,6 +593,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2249-count-the-hidden-sequences](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
@@ -647,6 +649,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
