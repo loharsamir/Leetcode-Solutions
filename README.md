@@ -149,6 +149,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -568,6 +569,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
@@ -594,6 +596,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2249-count-the-hidden-sequences](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
@@ -615,6 +618,7 @@
 | [1013-fibonacci-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
@@ -803,11 +807,13 @@
 | [0239-sliding-window-maximum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Divide and Conquer
 |  |
 | ------- |
