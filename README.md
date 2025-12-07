@@ -645,6 +645,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
