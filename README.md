@@ -648,6 +648,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1925-count-square-sum-triples](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2481-strictly-palindromic-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2998-count-symmetric-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
@@ -838,6 +839,7 @@
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2339-k-divisible-elements-subarrays](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
