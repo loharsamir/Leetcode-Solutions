@@ -149,6 +149,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -238,6 +239,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -386,6 +388,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
