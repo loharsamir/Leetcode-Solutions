@@ -83,6 +83,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -378,6 +379,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/loharsamir/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1019-squares-of-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
