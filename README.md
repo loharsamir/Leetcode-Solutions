@@ -155,6 +155,7 @@
 | [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
