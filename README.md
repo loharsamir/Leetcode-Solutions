@@ -155,6 +155,7 @@
 | [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -394,6 +395,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -580,6 +582,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
