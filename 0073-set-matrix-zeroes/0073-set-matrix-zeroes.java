@@ -8,7 +8,7 @@ class Solution {
             for(int j=0;j<c;j++){
                 if(matrix[i][j]==0){
                     row[i]=-1;
-                    col[j]=-1;
+                    col[j] = -1;
                 }
             }
         }
