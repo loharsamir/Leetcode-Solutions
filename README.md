@@ -396,6 +396,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3531-count-covered-buildings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -671,6 +672,7 @@
 | [3321-type-of-triangle](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/loharsamir/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
