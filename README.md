@@ -104,6 +104,7 @@
 | [1646-kth-missing-positive-number](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1748-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -221,6 +222,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1748-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
@@ -429,6 +431,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/loharsamir/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
